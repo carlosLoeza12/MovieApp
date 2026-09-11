@@ -61,3 +61,17 @@ Para ejecutar este proyecto, necesitas añadir tu API KEY de TMDB:
    MOVIE_API_KEY=tu_api_key_aqui
    ```
 3. Sincroniza el proyecto con Gradle y ejecuta.
+
+Video: https://drive.google.com/file/d/1rR3VjNYg_C6itcx54V1-vtiPz3fBQo_4/view?usp=drive_link
+
+<img width="250" height="500" alt="Screenshot_20260911_113653" src="https://github.com/user-attachments/assets/51b29991-b6ff-4ae2-991f-5152da498f0d" />
+
+<img width="250" height="500" alt="Screenshot_20260911_113720" src="https://github.com/user-attachments/assets/b22b0579-4e9e-443b-a4c0-3eae416975ad" />
+
+<img width="250" height="500" alt="Screenshot_20260911_113742" src="https://github.com/user-attachments/assets/6d8aa33a-c2ea-44b8-9207-a5c482468c52" />
+
+<img width="250" height="500" alt="Screenshot_20260911_113832" src="https://github.com/user-attachments/assets/cccbb048-94d7-4924-b92b-f3f7c8632529" />
+
+
+
+
