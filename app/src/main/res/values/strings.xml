@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">MovieApp</string>
+    <string name="login_subtitle">Your next movie \nstart here</string>
+    <string name="login_button_google">Sign in with Google</string>
+    <string name="login_terms_privacy">By continuing, you agree to our terms of service and privacy policy</string>
+    <string name="app_icon_description">App Icon</string>
+    <string name="google_icon_description">Google Icon</string>
+
+    <!-- Movie Screen -->
+    <string name="movies_screen_description_image">Item for image</string>
+    <string name="movies_screen_dialog_title_txt">Welcome!</string>
+    <string name="movies_screen_dialog_description_txt">Discover new stories, explore your favorite genres, and find the perfect next movie to enjoy.</string>
+    <string name="movies_screen_dialog_confirm_button">Accept</string>
+    <string name="movies_screen_dialog_cancel_button">Cancel</string>
+
+    <!-- Detail Screen -->
+    <string name="movie_details_title">Details</string>
+    <string name="movie_details_release_date">Release date</string>
+    <string name="movie_details_genres">Genres</string>
+    <string name="movie_details_runtime">Runtime</string>
+    <string name="movie_details_runtime_format">%1$d min</string>
+
+</resources>

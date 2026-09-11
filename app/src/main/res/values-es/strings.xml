@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">MovieApp</string>
+    <string name="login_subtitle">Tu próxima película \ncomienzan aquí</string>
+    <string name="login_button_google">Iniciar sesión con Google</string>
+    <string name="login_terms_privacy">Al continuar, aceptas nuestros términos y condiciones de servicio y politica de privacidad</string>
+    <string name="app_icon_description">Icono de la aplicación</string>
+    <string name="google_icon_description">Icono de Google</string>
+
+    <!-- Movie Screen -->
+    <string name="movies_screen_description_image">Imagen de la película</string>
+    <string name="movies_screen_dialog_title_txt">¡Bienvenido!</string>
+    <string name="movies_screen_dialog_description_txt">Descubre nuevas historias, explora tus géneros favoritos y encuentra la próxima película perfecta para disfrutar.</string>
+    <string name="movies_screen_dialog_confirm_button">Aceptar</string>
+    <string name="movies_screen_dialog_cancel_button">Cancelar</string>
+
+    <!-- Detail Screen -->
+    <string name="movie_details_title">Detalles</string>
+    <string name="movie_details_release_date">Fecha de lanzamiento</string>
+    <string name="movie_details_genres">Géneros</string>
+    <string name="movie_details_runtime">Duración</string>
+    <string name="movie_details_runtime_format">%1$d min</string>
+
+</resources>
